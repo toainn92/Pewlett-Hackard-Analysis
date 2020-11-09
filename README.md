@@ -42,3 +42,5 @@ Based on the analysis above, two conclusions are summarized below:
 - There are only 1549 who are eligible to partcipate in the mentorship program. However, there are a need to hire 90,398 employees. This means that to mentor new employees joining the company, each mentor will have about 58 mentees. This number is too high for a mentor to maintain. Using SQL, the below query and summary table were used to determine the number of mentors that are Engineers and Staff members.
 
 
+![](Resources/mentor_titles.PNG)
+
