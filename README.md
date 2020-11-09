@@ -11,10 +11,22 @@ The purpose of this analysis involves using SQL to provide detail and informatio
 
 SQL queries were used to create the Retirement Tables table that holds all the titles of current employees who were born between January 1, 1952 and December 31, 1955. Below is the summary table:
 
+- There are 90,398 employees that will be retiring soon.
+- Only two managers will be retiring soon from the company.
+- The top three positions that will retiring soon from the company are:
+  - Senior Engineer
+  - Senior Staff
+  - Engineer
+- Based on the top three positions that will be retiring soon from the company, there is a need for more hiring of mid-level to experienced level engineers.
 
+### Deliverable 2: To determine the employees that are eligible to particpate in a mentorship program.
 
+SQL queries were used to create a mentorship-eligibility table that holds the current employees who are born between January 1, 1952 and December 31, 1955. Below is the summary table:
 
-Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
+- A total of 1549 employees who are eligible to particpate in a mentorship program. 
+- A total of 225 Senior Engineers are eligible for the mentorship program.
+- A total of 504 Senior Staff are eligible for the mentorship program.
+- A total of 451 Engineers are eligible for the mentorship program
 
 
 ## Summary
