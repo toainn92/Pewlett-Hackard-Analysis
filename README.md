@@ -24,7 +24,8 @@ SQL queries were used to create the Retirement Tables table that holds all the t
 
 SQL queries were used to create a mentorship-eligibility table that holds the current employees who are born between January 1, 1952 and December 31, 1955. Below is the summary table:
 
-![](Resources/mentorship_eligibility.png)
+![](Resources/mentorship_eligibility.PNG)
+
 
 - A total of 1549 employees who are eligible to particpate in a mentorship program. 
 - A total of 225 Senior Engineers are eligible for the mentorship program.
