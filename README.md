@@ -34,6 +34,6 @@ SQL queries were used to create a mentorship-eligibility table that holds the cu
 
 
 ## Summary
-Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+Based on the analysis above, two conclusions are summarized below:
+- There will be a need to hire alot of Engineers (Senior Engineer, Engineer, and Assistant Engineer) and Staff members (Senior Staff and Staff) since there are 85,894 employees expected to retire.
+- There are only 1549 who are eligible to partcipate in the mentorship program. However, there are a need to hire 90,398 employees. This means that to mentor new employees joining the company, each mentor will have about 58 mentees. This number is too high for a mentor to maintain.
