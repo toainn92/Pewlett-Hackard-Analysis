@@ -35,8 +35,10 @@ SQL queries were used to create a mentorship-eligibility table that holds the cu
 
 ## Summary
 Based on the analysis above, two conclusions are summarized below:
-- There will be a need to hire alot of Engineers (Senior Engineer, Engineer, and Assistant Engineer) and Staff members (Senior Staff and Staff) since there are 85,894 employees expected to retire. Using SQL, the below query and summary table was used to determine the number of applicants needed based on their titles.
+- There will be a need to hire alot of Engineers (Senior Engineer, Engineer, and Assistant Engineer) and Staff members (Senior Staff and Staff) since there are 85,894 employees expected to retire. Using SQL, the below query and summary table were used to determine the number of applicants needed based on their titles.
 
 ![](Resources/hiring_titles.PNG)
 
-- There are only 1549 who are eligible to partcipate in the mentorship program. However, there are a need to hire 90,398 employees. This means that to mentor new employees joining the company, each mentor will have about 58 mentees. This number is too high for a mentor to maintain.
+- There are only 1549 who are eligible to partcipate in the mentorship program. However, there are a need to hire 90,398 employees. This means that to mentor new employees joining the company, each mentor will have about 58 mentees. This number is too high for a mentor to maintain. Using SQL, the below query and summary table were used to determine the number of mentors that are Engineers and Staff members.
+
+
